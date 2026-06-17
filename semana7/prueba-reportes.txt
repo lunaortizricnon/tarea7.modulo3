@@ -1,0 +1,22 @@
+Se realizó una prueba de la ruta /reportes.
+
+Primero se registró un reporte con la siguiente información:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Al consultar la ruta GET /reportes, el servidor mostró la lista de reportes registrados.
+
+Respuesta obtenida:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto permite ver los reportes que han sido almacenados por el servidor.

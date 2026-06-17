@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+"tipo": "Movilidad",
+"descripcion": "Los habitantes del sector reportan que una señal de tránsito se encuentra caída desde hace varios días."
+}
+
+Ejemplo 2:
+
+{
+"tipo": "Espacio público",
+"descripcion": "La comunidad informa que un parque infantil presenta varios juegos dañados y podría representar un riesgo para los niños."
+}
